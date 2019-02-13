@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderingWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.GetAllOrders">
+            <summary>
+            Gets all orders stored.
+            </summary>
+            <returns>Returns <see cref="T:System.Collections.Generic.Dictionary`2"/> with orders indexed by OrderId. </returns>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.Get(System.Int32)">
+            <summary>
+            Get the order based on Order ID.
+            </summary>
+            <param name="orderId">The ID of the Order to retrieve.</param>
+            <returns>Order object if found</returns>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.Submit(OrderingWebAPI.Models.Order)">
+            <summary>
+            Adds the order.
+            </summary>
+            <param name="order">The order to be added</param>
+            <response code="201">Order Created.</response>
+            <response code="409">Order exists already.</response>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.AddItem(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Add the item with the specified quantity for an Order;
+            </summary>
+            <param name="orderId">The Order ID to update.</param>
+            <param name="productId">The Product ID to increase the quantity for.</param>
+            <param name="quantity">Quantity of the product.</param>
+            <returns></returns>
+            <response code="200">Item added.</response>
+            <response code="404">Product does not exist.</response>
+            <response code="409">The server could not fulfill the request.</response>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.Delete(System.Int32)">
+            <summary>
+            Delete the order.
+            </summary>
+            <param name="orderId">The ID of the order to delete.</param>
+            <returns>True if the order was deleted.</returns>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.Update(System.Int32,OrderingWebAPI.Models.Order)">
+            <summary>
+            Overwrite the order with the passed in object.
+            </summary>
+            <param name="orderId">The Order ID.</param>
+            <param name="order">Order object that will replace the current one. If null it will clear the order items</param>
+            <response code="200">Order updated.</response>
+            <response code="404">Order does not exist.</response>
+        </member>
+        <member name="M:OrderingWebAPI.Controllers.ProductsController.GetAllProducts">
+            <summary>
+            Gets all available products.
+            </summary>
+            <returns>Returns <see cref="T:System.Collections.Generic.Dictionary`2"/> with products indexed by ProductId. </returns>
+        </member>
+        <member name="M:OrderingWebAPI.Storage.ProductsDataStorage.PopulateProducts">
+            Simulate some existing DB data.
+        </member>
+    </members>
+</doc>

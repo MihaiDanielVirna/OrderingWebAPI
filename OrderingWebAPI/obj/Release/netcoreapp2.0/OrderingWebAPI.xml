@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderingWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:OrderingWebAPI.Controllers.OrdersController.Submit(OrderingWebAPI.Models.Order)">
+            <summary>
+            Adds the order
+            </summary>
+            <param name="order">The order to be added</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

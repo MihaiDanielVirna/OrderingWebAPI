@@ -1,0 +1,13 @@
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.deps.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.runtimeconfig.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.runtimeconfig.dev.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.dll
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.pdb
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\bin\Release\netcoreapp2.0\OrderingWebAPI.xml
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.AssemblyInfoInputs.cache
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.AssemblyInfo.cs
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.dll
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.xml
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.pdb
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI\obj\Release\netcoreapp2.0\OrderingWebAPI.csprojAssemblyReference.cache

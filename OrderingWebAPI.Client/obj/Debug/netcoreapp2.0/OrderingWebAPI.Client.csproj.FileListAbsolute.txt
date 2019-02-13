@@ -1,0 +1,15 @@
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.Client.deps.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.Client.runtimeconfig.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.Client.runtimeconfig.dev.json
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.Client.dll
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.Client.pdb
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.dll
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.pdb
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\bin\Debug\netcoreapp2.0\OrderingWebAPI.xml
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.csprojAssemblyReference.cache
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.csproj.CoreCompileInputs.cache
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.AssemblyInfoInputs.cache
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.AssemblyInfo.cs
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.csproj.CopyComplete
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.dll
+C:\Users\mihai-daniel.virna\source\repos\OrderingWebAPI\OrderingWebAPI.Client\obj\Debug\netcoreapp2.0\OrderingWebAPI.Client.pdb
